@@ -14,7 +14,7 @@ Mini-Game: A fun mini-game to engage users at the end of the information section
 3. Play the mini-game after reading the descriptions.
 
 ## App Demo
-[Watch App Demo](https://youtube.com/shorts/aka6CyYasOY)
+[Watch App Demo](https://youtu.be/oxO6VyaYjFs)
 
 ## Technologies Used
 Game Engine: Unity
